@@ -13,6 +13,7 @@ ENV_ROOT_DIST ?= ./dist
 env:
 	pandoc --version
 	xelatex --version
+	latex --version
 
 utils:
 	node -v

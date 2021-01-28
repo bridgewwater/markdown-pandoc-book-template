@@ -17,3 +17,4 @@ reference-doc: "assets/styles/docx_style.docx"
 # log
 verbosity: WARNING # ERROR, WARNING, or INFO
 #log-file: log.json
+log-file: dist/markdown-pandoc-book-template.docx.json

@@ -1,6 +1,6 @@
 ---
 # METADATA
-lang: en-US # like en, en-UK, en-US, fr, it, it-IT, ...
+lang: en-US # like en, en-US, en-UK, en-US, fr, it, it-IT, zh-CN...
 title: "The best book title"
 subtitle: "a powerful book subtitle"
 subject: "the subject of this book is its subject"
@@ -8,7 +8,7 @@ author: "sinlov"
 creator:
 - role: co-author
   text: Dearest Collaborator
-date: 21-11-2020
+date: 28-01-2021
 keywords: "Technology, Philosophy, OpenSource"
 # thanks: "So Long, and Thanks for All the Fish"
 publisher: My Publisher
